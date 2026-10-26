@@ -51,6 +51,9 @@ function renderFooter() {
       <a href="https://shopee.co.th/salonplus" target="_blank" rel="noopener noreferrer" style="color: #ee4d2d; text-decoration: none; font-weight: 600; display: flex; align-items: center;">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 5px;"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg> Shopee (Salon Plus)
       </a>
+      <a href="mailto:support@salonplus.co.th" style="color: #6C5A4F; text-decoration: none; font-weight: 600; display: flex; align-items: center;">
+        ✉️ support@salonplus.co.th
+      </a>
     </div>
     <p>© 2026 บริษัท ซาลอนพลัส จำกัด (Salon Plus Co., Ltd.) – ผู้จัดจำหน่ายแบรนด์ Cameo, Molly และ Basicare. All rights reserved.</p>
   </footer>`;
@@ -1053,7 +1056,7 @@ ${renderTopBar('about')}
         <h3 style="margin-top: 0;">ติดต่อเรา (Contact Us)</h3>
         <p style="margin-bottom: 0.5rem;"><strong>บริษัท:</strong> บริษัท ซาลอนพลัส จำกัด (Salon Plus Co., Ltd.)</p>
         <p style="margin-bottom: 0.5rem;"><strong>เบอร์โทรศัพท์:</strong> 02-433-5343, 02-883-7494</p>
-        <p style="margin-bottom: 0.5rem;"><strong>อีเมล:</strong> cameothailand1585@gmail.com</p>
+        <p style="margin-bottom: 0.5rem;"><strong>อีเมล:</strong> <a href="mailto:support@salonplus.co.th" style="color:#4A3B32; font-weight:600;">support@salonplus.co.th</a></p>
         <p style="margin-bottom: 0.5rem;"><strong>ร้านค้าออนไลน์ทางการ:</strong> <a href="https://shopee.co.th/salonplus" target="_blank" rel="noopener noreferrer" style="color:#EE4D2D; font-weight:600;">shopee.co.th/salonplus</a></p>
         <p style="margin-bottom: 0;"><strong>ที่อยู่:</strong> 1585/1 ถนนอรุณอมรินทร์ แขวงบางยี่ขัน เขตบางพลัด กรุงเทพฯ 10700</p>
       </div>
