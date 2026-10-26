@@ -1,0 +1,28 @@
+# macOS & Office temporary files
+.DS_Store
+~$*
+
+# Raw camera, Photoshop, Illustrator, and archive files not used directly by HTML
+*.ARW
+*.arw
+*.psd
+*.PSD
+*.ai
+*.AI
+*.zip
+*.gdoc
+*.MOV
+*.mov
+
+# Exclude oversized unreferenced video files (>80MB) to comply with GitHub 100MB limit
+resource/Molly/Molly TikTok VDO/JAN 26/Molly04_Jan_*.mp4
+resource/Molly/Molly TikTok VDO/JAN 26/Molly02_Jan_*.mp4
+resource/Molly/Molly TikTok VDO/NOV 25/Molly01_Nov_*.mp4
+resource/Molly/Molly TikTok VDO/NOV 25/Molly02_Nov_*.mp4
+resource/Molly/Molly TikTok VDO/NOV 25/Molly03_Nov_*.mp4
+resource/Molly/Molly TikTok VDO/NOV 25/Molly04_Nov_*.mp4
+resource/Molly/Molly TikTok VDO/NOV 25/Molly05_Nov_*.mp4
+resource/Molly/Molly TikTok VDO/NOV 25/Molly06_Nov_*.mp4
+resource/Molly/Molly TikTok VDO/DEC 25/ML03_Dec_*.mp4
+resource/Molly/Molly vdo 2025/2 น้ำตาล May 25/น้ำตาล_voice_over_V3 hi quality.mp4
+resource/Molly/Molly colour bowl/คลิปสั้นไม่แต่ง/[1-7].MP4

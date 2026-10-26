@@ -511,3 +511,357 @@ footer.footer {
     grid-template-columns: 1fr;
   }
 }
+
+/* ========================================================== */
+/* SALON PLUS MULTI-BRAND PORTAL & BRAND THEMES (2026)        */
+/* ========================================================== */
+
+.salonplus-topbar {
+  width: 100%;
+  background: #1E1E1E;
+  color: #FFFFFF;
+  padding: 0.65rem 1.2rem;
+  border-bottom: 3px solid #8CC63F;
+  z-index: 200;
+}
+
+.salonplus-topbar-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.salonplus-brand-home {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.salonplus-brand-home img {
+  height: 34px;
+  width: auto;
+  border-radius: 6px;
+  background: #FFFFFF;
+  padding: 2px 6px;
+}
+
+.salonplus-brand-switcher {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.brand-pill {
+  text-decoration: none;
+  color: #E0E0E0;
+  font-size: 0.88rem;
+  font-weight: 600;
+  padding: 0.4rem 0.95rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  transition: all 0.25s ease;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.brand-pill:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: #FFFFFF;
+}
+
+.brand-pill.active-salonplus {
+  background: #8CC63F;
+  color: #141E08;
+  border-color: #8CC63F;
+}
+
+.brand-pill.active-cameo {
+  background: #A98467;
+  color: #FFFFFF;
+  border-color: #A98467;
+}
+
+.brand-pill.active-molly {
+  background: #C85A7C;
+  color: #FFFFFF;
+  border-color: #C85A7C;
+}
+
+.brand-pill.active-basicare {
+  background: #5B7B8C;
+  color: #FFFFFF;
+  border-color: #5B7B8C;
+}
+
+/* Navigation two-row refinement */
+nav.nav ul.nav-row {
+  padding: 0.6rem 1rem;
+}
+nav.nav ul.nav-row.top-row {
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.07);
+  padding-bottom: 0.5rem;
+}
+nav.nav ul.nav-row.bottom-row {
+  padding-top: 0.5rem;
+}
+
+/* Brand Themes */
+body.theme-molly {
+  background-color: #FDF8FA;
+  color: #3D2630;
+}
+body.theme-molly nav.nav a:hover,
+body.theme-molly nav.nav a.active {
+  background: #F4DCE4;
+  color: #6B233B;
+}
+body.theme-molly main.main h1::after,
+body.theme-molly main.main h2::after {
+  background: #C85A7C;
+}
+body.theme-molly .cta-button {
+  background: #C85A7C;
+  box-shadow: 0 4px 15px rgba(200, 90, 124, 0.3);
+}
+body.theme-molly .cta-button:hover {
+  background: #A84463;
+}
+body.theme-molly .product-code {
+  color: #C85A7C;
+}
+body.theme-molly .product-price {
+  color: #A84463;
+}
+body.theme-molly .category-features {
+  background-color: #FFF9FB;
+  border-color: #F2D6E0;
+}
+
+body.theme-basicare {
+  background-color: #F5F8FA;
+  color: #24343D;
+}
+body.theme-basicare nav.nav a:hover,
+body.theme-basicare nav.nav a.active {
+  background: #DAE6ED;
+  color: #1F3340;
+}
+body.theme-basicare main.main h1::after,
+body.theme-basicare main.main h2::after {
+  background: #5B7B8C;
+}
+body.theme-basicare .cta-button {
+  background: #5B7B8C;
+  box-shadow: 0 4px 15px rgba(91, 123, 140, 0.3);
+}
+body.theme-basicare .cta-button:hover {
+  background: #466373;
+}
+body.theme-basicare .product-code {
+  color: #5B7B8C;
+}
+body.theme-basicare .product-price {
+  color: #3E5A69;
+}
+body.theme-basicare .category-features {
+  background-color: #F8FBFD;
+  border-color: #D2E1EA;
+}
+
+/* Salon Plus Corporate Home Cards */
+.brands-showcase-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3.5rem;
+}
+
+.brand-showcase-card {
+  background: #FFFFFF;
+  border-radius: 18px;
+  padding: 2.2rem 1.8rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  border: 1px solid #EAE3D9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.brand-showcase-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.12);
+}
+
+.brand-showcase-card.card-cameo { border-top: 5px solid #8A6A51; }
+.brand-showcase-card.card-molly { border-top: 5px solid #C85A7C; }
+.brand-showcase-card.card-basicare { border-top: 5px solid #5B7B8C; }
+
+.brand-logo-box {
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.2rem;
+}
+
+.brand-logo-box img {
+  max-height: 80px;
+  max-width: 210px;
+  object-fit: contain;
+}
+
+.brand-badge-count {
+  display: inline-block;
+  font-size: 0.82rem;
+  font-weight: 700;
+  padding: 0.3rem 0.9rem;
+  border-radius: 99px;
+  margin-bottom: 0.9rem;
+}
+
+.card-cameo .brand-badge-count { background: #F3ECE4; color: #75563E; }
+.card-molly .brand-badge-count { background: #FCEBF0; color: #A84463; }
+.card-basicare .brand-badge-count { background: #E7F0F5; color: #3E5A69; }
+
+.brand-showcase-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.7rem;
+  color: #222;
+}
+
+.brand-showcase-card p {
+  font-size: 0.98rem;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 1.3rem;
+}
+
+.brand-cat-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  justify-content: center;
+  margin-bottom: 1.6rem;
+}
+
+.brand-cat-tags a {
+  font-size: 0.8rem;
+  text-decoration: none;
+  padding: 0.3rem 0.7rem;
+  border-radius: 12px;
+  background: #F5F5F5;
+  color: #444;
+  transition: all 0.2s ease;
+}
+
+.brand-cat-tags a:hover {
+  background: #333;
+  color: #FFF;
+}
+
+/* Video & Before/After Gallery for Molly & Salon Plus */
+.video-gallery-section {
+  background: #FFFFFF;
+  border-radius: 16px;
+  padding: 3rem 2rem;
+  margin: 3rem 0;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.05);
+  border: 1px solid #EAE3D9;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.video-card {
+  background: #141414;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: column;
+}
+
+.video-card video {
+  width: 100%;
+  aspect-ratio: 9 / 16;
+  object-fit: cover;
+  background: #000;
+}
+
+.video-card-caption {
+  padding: 0.85rem 1rem;
+  background: #FFFFFF;
+  color: #332822;
+  font-weight: 600;
+  font-size: 0.92rem;
+  text-align: center;
+  border-top: 1px solid #F0EAE1;
+}
+
+.before-after-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.8rem;
+  margin-top: 1.5rem;
+}
+
+.before-after-card {
+  background: #FFFFFF;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid #F0DCE3;
+  box-shadow: 0 6px 18px rgba(200, 90, 124, 0.08);
+  text-align: center;
+}
+
+.before-after-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.before-after-card h4 {
+  padding: 1rem;
+  font-size: 1.05rem;
+  color: #6B233B;
+}
+
+.buy-btn-row {
+  margin-top: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.shopee-mini-btn {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 0.4rem 0.85rem;
+  border-radius: 16px;
+  background: #EE4D2D;
+  color: #FFFFFF;
+  transition: opacity 0.2s ease;
+}
+
+.shopee-mini-btn:hover {
+  opacity: 0.9;
+}

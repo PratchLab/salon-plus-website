@@ -1,0 +1,834 @@
+{
+  "molly": [
+    {
+      "sku": "ML200",
+      "name_en": "Natural Black",
+      "name_th": "ดำธรรมชาติ",
+      "category": "Natural",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML200.png"
+    },
+    {
+      "sku": "ML300",
+      "name_en": "Dark Brown",
+      "name_th": "น้ำตาลเข้ม",
+      "category": "Natural",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML300.png"
+    },
+    {
+      "sku": "ML400",
+      "name_en": "Natural Brown",
+      "name_th": "น้ำตาลธรรมชาติ",
+      "category": "Natural",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML400.png"
+    },
+    {
+      "sku": "ML500",
+      "name_en": "Light Brown",
+      "name_th": "น้ำตาลอ่อน",
+      "category": "Natural",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML500.png"
+    },
+    {
+      "sku": "ML700",
+      "name_en": "Medium Blonde",
+      "name_th": "บลอนด์กลาง",
+      "category": "Blonde",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML700.png"
+    },
+    {
+      "sku": "ML800",
+      "name_en": "Light Blonde",
+      "name_th": "บลอนด์อ่อน",
+      "category": "Blonde",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML800.png"
+    },
+    {
+      "sku": "ML900",
+      "name_en": "Ultra Light Blonde",
+      "name_th": "บลอนด์อ่อนมาก",
+      "category": "Blonde",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML900.png"
+    },
+    {
+      "sku": "ML1400",
+      "name_en": "Special Blonde",
+      "name_th": "บลอนด์พิเศษ",
+      "category": "Blonde",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML1400.png"
+    },
+    {
+      "sku": "ML411",
+      "name_en": "Medium Brown Ash Green",
+      "name_th": "น้ำตาลหม่นเขียว",
+      "category": "Green",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML411.png"
+    },
+    {
+      "sku": "ML670",
+      "name_en": "Dark Blonde Green",
+      "name_th": "บลอนด์เข้มเขียว",
+      "category": "Green",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML670.png"
+    },
+    {
+      "sku": "ML813",
+      "name_en": "Light Blonde Golden Green",
+      "name_th": "บลอนด์เขียวทอง",
+      "category": "Green",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML813.png"
+    },
+    {
+      "sku": "ML1211",
+      "name_en": "Special Light Blonde Green",
+      "name_th": "บลอนด์เขียวพิเศษ",
+      "category": "Green",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML1211.png"
+    },
+    {
+      "sku": "ML1213",
+      "name_en": "Special Light Blonde Ash Golden Green",
+      "name_th": "บลอนด์เขียวทองหม่น",
+      "category": "Green",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML1213.png"
+    },
+    {
+      "sku": "ML970",
+      "name_en": "Ultra Light Blonde Green",
+      "name_th": "บลอนด์เขียวอ่อนมาก",
+      "category": "Green",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML970.png"
+    },
+    {
+      "sku": "ML662",
+      "name_en": "Dark Blonde Chocolate Pink",
+      "name_th": "บลอนด์ชมพูช็อกโกแลต",
+      "category": "Red/Violet",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML662.png"
+    },
+    {
+      "sku": "ML866",
+      "name_en": "Light Blonde Ruby Red",
+      "name_th": "บลอนด์แดงทับทิม",
+      "category": "Red/Violet",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML866.png"
+    },
+    {
+      "sku": "ML663",
+      "name_en": "Dark Blonde Mahogany Red",
+      "name_th": "บลอนด์แดงมะฮอกกานี",
+      "category": "Red/Violet",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML663.png"
+    },
+    {
+      "sku": "ML636",
+      "name_en": "Dark Blonde Red Mahogany",
+      "name_th": "บลอนด์แดงหม่น",
+      "category": "Red/Violet",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML636.png"
+    },
+    {
+      "sku": "ML440",
+      "name_en": "Medium Brown Violet",
+      "name_th": "น้ำตาลม่วง",
+      "category": "Violet",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML440.png"
+    },
+    {
+      "sku": "ML443",
+      "name_en": "Medium Brown Violet Red",
+      "name_th": "น้ำตาลม่วงแดง",
+      "category": "Violet",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML443.png"
+    },
+    {
+      "sku": "ML618",
+      "name_en": "Dark Blonde Ash Gray",
+      "name_th": "บลอนด์เทาหม่น",
+      "category": "Ash",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML618.png"
+    },
+    {
+      "sku": "ML518",
+      "name_en": "Light Brown Ash Gray",
+      "name_th": "น้ำตาลเทาหม่น",
+      "category": "Ash",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML518.png"
+    },
+    {
+      "sku": "ML918",
+      "name_en": "Extra Light Blonde Ash Gray",
+      "name_th": "บลอนด์เทาอ่อนมาก",
+      "category": "Ash",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML918.png"
+    },
+    {
+      "sku": "ML1289",
+      "name_en": "Special Light Blonde Ash Gray",
+      "name_th": "บลอนด์เทาพิเศษ",
+      "category": "Ash",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML1289.png"
+    },
+    {
+      "sku": "ML832",
+      "name_en": "Light Blonde Ash Caramel",
+      "name_th": "บลอนด์คาราเมลหม่น",
+      "category": "Ash",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML832.png"
+    },
+    {
+      "sku": "ML818",
+      "name_en": "Light Blonde Ash Gray Pearl",
+      "name_th": "บลอนด์เทามุก",
+      "category": "Ash",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML818.png"
+    },
+    {
+      "sku": "ML743",
+      "name_en": "Medium Blonde Gold Copper",
+      "name_th": "บลอนด์ทองแดง",
+      "category": "Copper",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML743.png"
+    },
+    {
+      "sku": "ML774",
+      "name_en": "Medium Blonde Honey Copper",
+      "name_th": "บลอนด์กลางประกายน้ำตาลเหลือบฮันนี่คอปเปอร์",
+      "category": "Copper",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML774.png"
+    },
+    {
+      "sku": "ML943",
+      "name_en": "Extra Light Blonde Golden Orange",
+      "name_th": "บลอนด์ส้มทอง",
+      "category": "Copper",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML943.png"
+    },
+    {
+      "sku": "ML477",
+      "name_en": "Chocolate Brown",
+      "name_th": "น้ำตาลช็อกโกแลต",
+      "category": "Chocolate",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML477.png"
+    },
+    {
+      "sku": "ML577",
+      "name_en": "Light Brown Golden Caramel",
+      "name_th": "น้ำตาลคาราเมล",
+      "category": "Chocolate",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML577.png"
+    },
+    {
+      "sku": "ML733",
+      "name_en": "Medium Blonde Golden",
+      "name_th": "บลอนด์ทอง",
+      "category": "Gold",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML733.png"
+    },
+    {
+      "sku": "ML533",
+      "name_en": "Light Brown Golden",
+      "name_th": "น้ำตาลทอง",
+      "category": "Gold",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML533.png"
+    },
+    {
+      "sku": "ML1188",
+      "name_en": "Extra Light Blonde Gold Intensive",
+      "name_th": "บลอนด์ทองพิเศษ",
+      "category": "Gold",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML1188.png"
+    },
+    {
+      "sku": "MLX999",
+      "name_en": "Hair Rinsing Cream",
+      "name_th": "ครีมล้างสีผม",
+      "category": "Other",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/MLX999.png"
+    },
+    {
+      "sku": "ML000",
+      "name_en": "Clear",
+      "name_th": "เคลียร์",
+      "category": "Other",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML000.png"
+    },
+    {
+      "sku": "ML099",
+      "name_en": "Intensive Gray",
+      "name_th": "แม่สีเทา",
+      "category": "Master",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML099.png"
+    },
+    {
+      "sku": "ML088",
+      "name_en": "Intensive Violet Blue",
+      "name_th": "แม่สีม่วงน้ำเงิน",
+      "category": "Master",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML088.png"
+    },
+    {
+      "sku": "ML888",
+      "name_en": "Intensive Blue",
+      "name_th": "แม่สีน้ำเงิน",
+      "category": "Master",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML888.png"
+    },
+    {
+      "sku": "ML011",
+      "name_en": "Intensive Green",
+      "name_th": "แม่สีเขียว",
+      "category": "Master",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20image%20x/ML011.png"
+    },
+    {
+      "sku": "DYS002",
+      "name_en": "Cameo x Molly Hair Coloring Kit",
+      "name_th": "ชุดถ้วยย้อม Cameo x Molly",
+      "category": "Coloring Kit",
+      "price": "65.00",
+      "image": "resource/Molly/Molly%20colour%20bowl/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B2%E0%B8%A7.jpg"
+    },
+    {
+      "sku": "95-58401",
+      "name_en": "Molly Curl Theraphy LEAVE-IN 200 ML",
+      "name_th": "มอลลี่ เคิร์ล เทอราพี ลีฟอิน ขนาด 200 มล.",
+      "category": "Treatment",
+      "price": "129.00",
+      "image": "resource/Molly/Molly%20image%20x/95-58401.png"
+    },
+    {
+      "sku": "95-58201",
+      "name_en": "Molly Everlasting Ends Treatment 500 ML",
+      "name_th": "มอลลี่ เอเวอร์ลาสติ้ง เอนด์ส ทรีทเมนต์ 500 มล.",
+      "category": "Treatment",
+      "price": "149.00",
+      "image": "resource/Molly/Molly%20image%20x/95-58201.png"
+    },
+    {
+      "sku": "95-58202",
+      "name_en": "Molly Intense Collagen Leave in 200 ML",
+      "name_th": "มอลลี่ อินเทนส์ คอลลาเจน ลีฟอิน 250 มล.",
+      "category": "Treatment",
+      "price": "129.00",
+      "image": "resource/Molly/Molly%20image%20x/95-58202.png"
+    },
+    {
+      "sku": "58206",
+      "name_en": "Molly Everlasting Ends Treatment 100 ML",
+      "name_th": "มอลลี่ เอเวอร์ลาสติ้ง เอนด์ส ทรีทเมนต์ ซอง 100 มล",
+      "category": "Treatment",
+      "price": "55.00",
+      "image": "resource/Molly/Molly%20image%20x/Treatment%20%E0%B8%8B%E0%B8%AD%E0%B8%87%20100ml%20%281%29.png"
+    }
+  ],
+  "basicare": [
+    {
+      "sku": "BC1001",
+      "name_en": "Matte Black Tweezers 8.5 cm – Flat Tip",
+      "name_th": "แหนบสีดำด้าน 8.5 ซม.ปลายราบแบน",
+      "category": "แหนบ",
+      "desc": "แหนบสีดำด้านคุณภาพสูง ปลายราบแบนช่วยหยิบขนคิ้วได้แม่นยำ ผลิตจากสแตนเลสเคลือบสีดำทนทาน",
+      "price": "99.00",
+      "image": "resource/Basicare/Basicare_Product_Images/01_%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%9A/BC1001.jpg"
+    },
+    {
+      "sku": "BC1002",
+      "name_en": "Matte Black Tweezers 8.5 cm – Pointed Tip",
+      "name_th": "แหนบสีดำด้าน 8.5 ซม.ปลายแหลม",
+      "category": "แหนบ",
+      "desc": "แหนบสีดำด้านปลายแหลม เซาะขนคิ้วได้ชัดเจน วัสดุสแตนเลสเคลือบสีดำ จับถนัดมือ",
+      "price": "99.00",
+      "image": "resource/Basicare/Basicare_Product_Images/01_%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%9A/BC1002.jpg"
+    },
+    {
+      "sku": "BC1003",
+      "name_en": "Gold Tip Tweezers 8.5 cm – Slant Tip",
+      "name_th": "แหนบปลายทอง 8.5 ซม.ปลายลาดเอียง",
+      "category": "แหนบ",
+      "desc": "แหนบปลายทองดีไซน์ปลายลาดเอียง ช่วยหยิบขนได้แม่นยำ วัสดุสแตนเลสชุบทองสวยงาม",
+      "price": "115.00",
+      "image": "resource/Basicare/Basicare_Product_Images/01_%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%9A/BC1003.jpg"
+    },
+    {
+      "sku": "BC1004",
+      "name_en": "Gold Tip Tweezers 8.5 cm – Large Flat Tip",
+      "name_th": "แหนบปลายทอง 8.5 ซม.ปลายราบแบน(ใหญ่)",
+      "category": "แหนบ",
+      "desc": "แหนบปลายทองใบใหญ่ปลายราบแบน เหมาะสำหรับจัดทรงคิ้วและหยิบขนสั้น แข็งแรงทนทาน",
+      "price": "115.00",
+      "image": "resource/Basicare/Basicare_Product_Images/01_%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%9A/BC1004.jpg"
+    },
+    {
+      "sku": "BC1005",
+      "name_en": "Gold Tip Tweezers 8.5 cm – Curved Slant Tip",
+      "name_th": "แหนบปลายทอง 8.5 ซม.โค้งลาดเอียง",
+      "category": "แหนบ",
+      "desc": "แหนบปลายทองลักษณะโค้งลาดเอียง ออกแบบพิเศษสำหรับดูแลขนคิ้วที่ต้องการความละเอียด",
+      "price": "115.00",
+      "image": "resource/Basicare/Basicare_Product_Images/01_%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%9A/BC1005.jpg"
+    },
+    {
+      "sku": "BC1007",
+      "name_en": "Gold Point Tweezers 8.5 cm – Small Flat Tip",
+      "name_th": "แหนบปลายแหลมทอง 8.5 ซม.ปลายราบแบน(เล็ก)",
+      "category": "แหนบ",
+      "desc": "แหนบปลายทองขนาดเล็กปลายราบแบน เหมาะสำหรับจัดทรงคิ้วอย่างละเอียด ใช้งานง่าย",
+      "price": "115.00",
+      "image": "resource/Basicare/Basicare_Product_Images/01_%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%9A/BC1007.jpg"
+    },
+    {
+      "sku": "BC1012",
+      "name_en": "Stainless Steel Tweezers 7.3 cm – Slant Tip",
+      "name_th": "แหนบสแตนเลสปลายลาดเอียง 7.3 ซม.",
+      "category": "แหนบ",
+      "desc": "แหนบสแตนเลสเงาวาว ปลายลาดเอียงขนาด 7.3 ซม. ทนทาน ไม่เป็นสนิม เหมาะใช้งานทุกวัน",
+      "price": "99.00",
+      "image": "resource/Basicare/Basicare_Product_Images/01_%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%9A/BC1012.jpg"
+    },
+    {
+      "sku": "BC1014",
+      "name_en": "Black Stainless Steel Tweezers 9.6 cm",
+      "name_th": "แหนบสแตนเลสสีดำ 9.6 ซม.",
+      "category": "แหนบ",
+      "desc": "แหนบสแตนเลสเคลือบสีดำขนาด 9.6 ซม. จับถนัดมือ ปลายคมช่วยหยิบขนได้อย่างแม่นยำ",
+      "price": "99.00",
+      "image": "resource/Basicare/Basicare_Product_Images/01_%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%9A/BC1014.jpg"
+    },
+    {
+      "sku": "BC1110",
+      "name_en": "Matte Black Tweezers 8.5 cm – Curved Slant Tip",
+      "name_th": "แหนบสีดำด้าน 8.5 ซม.ปลายโค้งลาดเอียง",
+      "category": "แหนบ",
+      "desc": "แหนบสีดำด้านปลายโค้งลาดเอียง ออกแบบให้หยิบขนคิ้วได้แม่นยำในทุกมุม ทนทานใช้งานง่าย",
+      "price": "109.00",
+      "image": "resource/Basicare/Basicare_Product_Images/01_%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%9A/BC1110.jpg"
+    },
+    {
+      "sku": "BC1021",
+      "name_en": "Nail Scissors 3.5\" – Curved Blade",
+      "name_th": "กรรไกรตัดเล็บ 3.5 นิ้ว ใบมีดโค้ง",
+      "category": "กรรไกร/ที่ตัดเล็บ",
+      "desc": "กรรไกรตัดเล็บขนาด 3.5 นิ้ว ใบมีดโค้งตัดเล็บได้เรียบ ลดการแตกหัก เหมาะสำหรับทุกคน",
+      "price": "169.00",
+      "image": "resource/Basicare/Basicare_Product_Images/02_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B9%84%E0%B8%81%E0%B8%A3/BC1021.jpg"
+    },
+    {
+      "sku": "BC1026",
+      "name_en": "Nail Scissors with Nail File",
+      "name_th": "กรรไกรตัดเล็บพร้อมตะไบ",
+      "category": "กรรไกร/ที่ตัดเล็บ",
+      "desc": "กรรไกรตัดเล็บพร้อมตะไบในชิ้นเดียว ใช้งานสะดวก พกพาง่าย เหมาะสำหรับดูแลเล็บเบื้องต้น",
+      "price": "65.00",
+      "image": "resource/Basicare/Basicare_Product_Images/02_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B9%84%E0%B8%81%E0%B8%A3/BC1026.jpg"
+    },
+    {
+      "sku": "BC1027",
+      "name_en": "Nail Scissors – Precision Tip Design",
+      "name_th": "กรรไกรตัดเล็บใบมีดปลายดีไซร์",
+      "category": "กรรไกร/ที่ตัดเล็บ",
+      "desc": "กรรไกรตัดเล็บดีไซน์พิเศษปลายโค้งงามตามรูปเล็บ ตัดได้สม่ำเสมอ ลดการบาดเจ็บ",
+      "price": "65.00",
+      "image": "resource/Basicare/Basicare_Product_Images/02_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B9%84%E0%B8%81%E0%B8%A3/BC1027.jpg"
+    },
+    {
+      "sku": "BC1028",
+      "name_en": "Nail Clipper – Curved Blade",
+      "name_th": "ที่ตัดเล็บปลายโค้ง",
+      "category": "กรรไกร/ที่ตัดเล็บ",
+      "desc": "ที่ตัดเล็บปลายโค้ง ใบมีดสแตนเลสคมพิเศษ ตัดได้เรียบ ไม่แตกหัก รองรับทุกความหนาของเล็บ",
+      "price": "79.00",
+      "image": "resource/Basicare/Basicare_Product_Images/02_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B9%84%E0%B8%81%E0%B8%A3/BC1028.jpg"
+    },
+    {
+      "sku": "BC1029",
+      "name_en": "Fingernail Clipper – Curved Blade",
+      "name_th": "ที่ตัดเล็บใบมีดโค้งเล็บมือ",
+      "category": "กรรไกร/ที่ตัดเล็บ",
+      "desc": "ที่ตัดเล็บมือใบมีดโค้ง เหมาะสำหรับเล็บทั่วไป วัสดุสแตนเลสทนทาน คมนานใช้ได้ยาวนาน",
+      "price": "79.00",
+      "image": "resource/Basicare/Basicare_Product_Images/02_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B9%84%E0%B8%81%E0%B8%A3/BC1029.jpg"
+    },
+    {
+      "sku": "BC1030",
+      "name_en": "Toenail Clipper – Curved Blade with Catcher",
+      "name_th": "ที่ตัดเล็บเท้าใบมีดโค้งพร้อมที่เก็บเศษ",
+      "category": "กรรไกร/ที่ตัดเล็บ",
+      "desc": "ที่ตัดเล็บเท้าใบมีดโค้ง พร้อมกล่องเก็บเศษเล็บอย่างสะอาด สะดวกและไม่เลอะเทอะ",
+      "price": "119.00",
+      "image": "resource/Basicare/Basicare_Product_Images/02_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B9%84%E0%B8%81%E0%B8%A3/BC1030.jpg"
+    },
+    {
+      "sku": "BC1992",
+      "name_en": "Basicare Cuticle Scissors",
+      "name_th": "เบสิคแคร์กรรไกรตัดหนัง",
+      "category": "กรรไกร/ที่ตัดเล็บ",
+      "desc": "กรรไกรตัดหนังเล็บ BASICARE ใบมีดสแตนเลสคมพิเศษ ตัดหนังเล็บได้เรียบ ลดการอักเสบ",
+      "price": "399.00",
+      "image": "resource/Basicare/Basicare_Product_Images/02_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B9%84%E0%B8%81%E0%B8%A3/BC1992.jpg"
+    },
+    {
+      "sku": "BC1993",
+      "name_en": "Basicare Cuticle Scissors – Rubber Handle",
+      "name_th": "เบสิคแคร์กรรไกรตัดหนังด้ามยาง",
+      "category": "กรรไกร/ที่ตัดเล็บ",
+      "desc": "กรรไกรตัดหนังเล็บด้ามยาง BASICARE จับถนัดมือ ลดความล้า ใบมีดคมตัดหนังได้เรียบไม่เจ็บ",
+      "price": "399.00",
+      "image": "resource/Basicare/Basicare_Product_Images/02_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B9%84%E0%B8%81%E0%B8%A3/BC1993.jpg"
+    },
+    {
+      "sku": "BC1031",
+      "name_en": "Chrome Eyelash Curler",
+      "name_th": "ที่ดัดขนตาโครเมี่ยม",
+      "category": "ขนตา",
+      "desc": "ที่ดัดขนตาโครเมี่ยมคุณภาพสูง ดัดขนตาได้เป็นธรรมชาติ ทนทาน ไม่เป็นสนิม ใช้งานง่าย",
+      "price": "129.00",
+      "image": "resource/Basicare/Basicare_Product_Images/03_%E0%B8%82%E0%B8%99%E0%B8%95%E0%B8%B2/BC1031.jpg"
+    },
+    {
+      "sku": "BC1032",
+      "name_en": "Black Handle Eyelash Curle",
+      "name_th": "ที่ดัดขนตาด้ามดำ",
+      "category": "ขนตา",
+      "desc": "ที่ดัดขนตาด้ามดำดีไซน์ทันสมัย ยางซิลิโคนนุ่มถนอมขนตา ดัดขนตาได้สวยงามและเป็นธรรมชาติ",
+      "price": "149.00",
+      "image": "resource/Basicare/Basicare_Product_Images/03_%E0%B8%82%E0%B8%99%E0%B8%95%E0%B8%B2/BC1032.jpg"
+    },
+    {
+      "sku": "BC1121",
+      "name_en": "Plastic Handle Eyelash Curler",
+      "name_th": "ที่ดัดขนตาด้ามพลาสติก",
+      "category": "ขนตา",
+      "desc": "ที่ดัดขนตาด้ามพลาสติก น้ำหนักเบา ใช้งานสะดวก ดัดขนตาได้เป็นธรรมชาติ เหมาะมือใหม่",
+      "price": "149.00",
+      "image": "resource/Basicare/Basicare_Product_Images/03_%E0%B8%82%E0%B8%99%E0%B8%95%E0%B8%B2/BC1121.jpg"
+    },
+    {
+      "sku": "BC1046",
+      "name_en": "Square Makeup Sponge Puff 24 pcs",
+      "name_th": "พัฟ ฟองน้ำสี่เหลี่ยม 24 ชิ้น",
+      "category": "พัฟ",
+      "desc": "พัฟฟองน้ำทรงสี่เหลี่ยม แพ็ก 24 ชิ้น เนื้อสัมผัสนุ่มละเอียด เหมาะสำหรับแต่งหน้าและทาพาวเดอร์",
+      "price": "249.00",
+      "image": "resource/Basicare/Basicare_Product_Images/05_%E0%B8%9E%E0%B8%B1%E0%B8%9F/BC1046.jpg"
+    },
+    {
+      "sku": "BC1047",
+      "name_en": "Round Makeup Sponge Puff 24 pcs",
+      "name_th": "พัฟ ฟองน้ำวงกลม 24 ชิ้น",
+      "category": "พัฟ",
+      "desc": "พัฟฟองน้ำทรงวงกลม แพ็ก 24 ชิ้น ซับและกระจายแป้งได้สม่ำเสมอ ใช้งานสะดวก",
+      "price": "249.00",
+      "image": "resource/Basicare/Basicare_Product_Images/05_%E0%B8%9E%E0%B8%B1%E0%B8%9F/BC1047.jpg"
+    },
+    {
+      "sku": "BC1048",
+      "name_en": "Triangle Makeup Sponge Puff 24 pcs",
+      "name_th": "พัฟ ฟองน้ำสามเหลี่ยม 24 ชิ้น",
+      "category": "พัฟ",
+      "desc": "พัฟฟองน้ำทรงสามเหลี่ยม แพ็ก 24 ชิ้น เหมาะสำหรับแต่งหน้าในมุมแคบ ซอกจมูก และใต้ตา",
+      "price": "249.00",
+      "image": "resource/Basicare/Basicare_Product_Images/05_%E0%B8%9E%E0%B8%B1%E0%B8%9F/BC1048.jpg"
+    },
+    {
+      "sku": "BC1057",
+      "name_en": "Blush Brush Black Handle (Large)",
+      "name_th": "แปรงบรัชออนด้ามดำ(ใหญ่)",
+      "category": "แปรง",
+      "desc": "แปรงบรัชออนด้ามดำขนาดใหญ่ ขนแปรงนุ่มฟู ปัดสีแก้มได้เท่ากันทั้งหน้า เหมาะสำหรับผู้เริ่มต้น",
+      "price": "219.00",
+      "image": "resource/Basicare/Basicare_Product_Images/04_%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%87/BC1057.jpg"
+    },
+    {
+      "sku": "BC1058",
+      "name_en": "Blush Brush Black Handle (Medium)",
+      "name_th": "แปรงบรัชออนด้ามดำ(กลาง)",
+      "category": "แปรง",
+      "desc": "แปรงบรัชออนด้ามดำขนาดกลาง ขนนุ่มละเอียด ปัดสีแก้มได้ธรรมชาติ พกพาสะดวก",
+      "price": "189.00",
+      "image": "resource/Basicare/Basicare_Product_Images/04_%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%87/BC1058.jpg"
+    },
+    {
+      "sku": "BC1059",
+      "name_en": "Fluffy Blush Brush Wooden Handle",
+      "name_th": "แปรงบลัสออนพุ่มด้ามลายไม้",
+      "category": "แปรง",
+      "desc": "แปรงบรัชออนขนพุ่มด้ามลายไม้ ขนแน่นหนาปัดสีสม่ำเสมอ ให้ลุคแก้มสวยมีมิติ",
+      "price": "249.00",
+      "image": "resource/Basicare/Basicare_Product_Images/04_%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%87/BC1059.jpg"
+    },
+    {
+      "sku": "BC1062",
+      "name_en": "Foundation Brush Black Handle (Soft Bristles)",
+      "name_th": "แปรงไล้น้ำด้ามดำ (ขนนิ่ม)",
+      "category": "แปรง",
+      "desc": "แปรงไล้น้ำด้ามดำขนนุ่มพิเศษ ไล้รองพื้นและคอนซีเลอร์ได้เนียนสวย ไม่มีรอยแปรง",
+      "price": "269.00",
+      "image": "resource/Basicare/Basicare_Product_Images/04_%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%87/BC1062.jpg"
+    },
+    {
+      "sku": "BC1063",
+      "name_en": "Eyeshadow Brush Black Handle (Soft Bristles)",
+      "name_th": "แปรงไล้ตา ด้ามดำ(ขนนิ่ม)",
+      "category": "แปรง",
+      "desc": "แปรงไล้ตาด้ามดำขนนุ่ม เหมาะสำหรับทาและไล้อายแชร์โด้ให้ดูเป็นธรรมชาติและมีมิติ",
+      "price": "109.00",
+      "image": "resource/Basicare/Basicare_Product_Images/04_%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%87/BC1063.jpg"
+    },
+    {
+      "sku": "BC1065",
+      "name_en": "Dual-Ended Eyebrow Brush",
+      "name_th": "แปรงคิ้ว 2 หัว",
+      "category": "แปรง",
+      "desc": "แปรงคิ้ว 2 หัวในแท่งเดียว หัวแปรงเกลี่ยสีคิ้ว อีกหัวหวีขนคิ้วให้เรียบสวยเป็นระเบียบ",
+      "price": "89.00",
+      "image": "resource/Basicare/Basicare_Product_Images/04_%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%87/BC1065.jpg"
+    },
+    {
+      "sku": "BC1066",
+      "name_en": "Lip Brush Black Handle (Soft Bristles)",
+      "name_th": "แปรงทาปากด้ามดำ(ขนนิ่ม)",
+      "category": "แปรง",
+      "desc": "แปรงทาปากด้ามดำขนนุ่มละเอียด ทาลิปสติกได้เรียบสม่ำเสมอ กำหนดขอบปากชัดเจน",
+      "price": "89.00",
+      "image": "resource/Basicare/Basicare_Product_Images/04_%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%87/BC1066.jpg"
+    },
+    {
+      "sku": "BC1067",
+      "name_en": "Portable Lip Brush Silver Handle",
+      "name_th": "พู่กันทาปากด้ามเงิน(สำหรับพกพา)",
+      "category": "แปรง",
+      "desc": "พู่กันทาปากด้ามเงินขนาดพกพา เหมาะสำหรับพกติดกระเป๋า แต่งหน้าได้ทุกที่ทุกเวลา",
+      "price": "169.00",
+      "image": "resource/Basicare/Basicare_Product_Images/04_%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%87/BC1067.jpg"
+    },
+    {
+      "sku": "BC1071",
+      "name_en": "Stainless Steel Nail File (Small)",
+      "name_th": "ตะไบเล็บสเตนเลส(เล็ก)",
+      "category": "ตะไบเล็บ",
+      "desc": "ตะไบเล็บสแตนเลสขนาดเล็ก ผิวตะไบละเอียด ขัดเล็บได้เรียบสวย ทนทานใช้ได้นาน",
+      "price": "69.00",
+      "image": "resource/Basicare/Basicare_Product_Images/06_%E0%B8%95%E0%B8%B0%E0%B9%84%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%9A/BC1071.jpg"
+    },
+    {
+      "sku": "BC1072",
+      "name_en": "Stainless Steel Nail File (Medium)",
+      "name_th": "ตะไบเล็บสเตนเลส(กลาง)",
+      "category": "ตะไบเล็บ",
+      "desc": "ตะไบเล็บสแตนเลสขนาดกลาง ผิวสองด้านหยาบ-ละเอียด ตะไบเล็บให้ได้ทรงที่ต้องการ",
+      "price": "75.00",
+      "image": "resource/Basicare/Basicare_Product_Images/06_%E0%B8%95%E0%B8%B0%E0%B9%84%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%9A/BC1072.jpg"
+    },
+    {
+      "sku": "BC1073",
+      "name_en": "Stainless Steel Nail File (Large)",
+      "name_th": "ตะไบเล็บสเตนเลส(ใหญ่)",
+      "category": "ตะไบเล็บ",
+      "desc": "ตะไบเล็บสแตนเลสขนาดใหญ่ เหมาะสำหรับตะไบเล็บที่ยาวหรือแข็ง วัสดุคุณภาพสูงทนทาน",
+      "price": "79.00",
+      "image": "resource/Basicare/Basicare_Product_Images/06_%E0%B8%95%E0%B8%B0%E0%B9%84%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%9A/BC1073.jpg"
+    },
+    {
+      "sku": "BC1077",
+      "name_en": "Paper Nail File White-Pink Short (Coarse) 10 pcs",
+      "name_th": "ตะไบกระดาษขาว-ชมพู สั้น (หยาบ 10 ชิ้น)",
+      "category": "ตะไบเล็บ",
+      "desc": "ตะไบกระดาษสีขาว-ชมพู ผิวหยาบ แพ็ก 10 ชิ้น ใช้แล้วทิ้งถูกสุขอนามัยเหมาะสำหรับร้านทำเล็บ",
+      "price": "59.00",
+      "image": "resource/Basicare/Basicare_Product_Images/06_%E0%B8%95%E0%B8%B0%E0%B9%84%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%9A/BC1077.jpg"
+    },
+    {
+      "sku": "BC1079",
+      "name_en": "Paper Nail File Short (Fine) 10 pcs",
+      "name_th": "ตะไบกระดาษแบบละเอียดสั้น( 10 ชิ้น)",
+      "category": "ตะไบเล็บ",
+      "desc": "ตะไบกระดาษผิวละเอียด แพ็ก 10 ชิ้น ขัดเล็บขั้นสุดท้ายให้เรียบเนียน สะอาดถูกสุขอนามัย",
+      "price": "75.00",
+      "image": "resource/Basicare/Basicare_Product_Images/06_%E0%B8%95%E0%B8%B0%E0%B9%84%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%9A/BC1079.jpg"
+    },
+    {
+      "sku": "BC1082",
+      "name_en": "Double-Sided Nail File (Coarse & Fine) 2 pcs",
+      "name_th": "ตะไบเล็บ 2 ด้าน แบบหยาบ-ละเอียด 2 ชิ้น",
+      "category": "ตะไบเล็บ",
+      "desc": "ตะไบเล็บ 2 ด้านหยาบ-ละเอียด แพ็ก 2 ชิ้น ตะไบและขัดเงาเล็บได้ในชิ้นเดียว ประหยัด",
+      "price": "109.00",
+      "image": "resource/Basicare/Basicare_Product_Images/06_%E0%B8%95%E0%B8%B0%E0%B9%84%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%9A/BC1082.jpg"
+    },
+    {
+      "sku": "BC1084",
+      "name_en": "3-Step Nail Buffer (Slim)",
+      "name_th": "ตะไบเคลือบเงาเล็บ 3 ขั้นตอน(แบบบาง)",
+      "category": "ตะไบเล็บ",
+      "desc": "ตะไบเคลือบเงาเล็บ 3 ขั้นตอนแบบบาง ขัดเล็บให้เงาสวยเป็นธรรมชาติ โดยไม่ต้องทาเจล",
+      "price": "119.00",
+      "image": "resource/Basicare/Basicare_Product_Images/06_%E0%B8%95%E0%B8%B0%E0%B9%84%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%9A/BC1084.jpg"
+    },
+    {
+      "sku": "BC1095",
+      "name_en": "Heel Scraper with 5 Blades",
+      "name_th": "ที่ขูดส้นเท้า พร้อมใบมีด 5 ใบ",
+      "category": "ดูแลผิว",
+      "desc": "ที่ขูดส้นเท้าพร้อมใบมีดสำรอง 5 ใบ ขูดหนังแข็งส้นเท้าได้มีประสิทธิภาพ ผิวเท้าเนียนนุ่ม",
+      "price": "159.00",
+      "image": "resource/Basicare/Basicare_Product_Images/08_%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%9C%E0%B8%B4%E0%B8%A7/BC1095.jpg"
+    },
+    {
+      "sku": "BC1099",
+      "name_en": "Stainless Steel Blackhead Remover (Pointed Tip)",
+      "name_th": "ที่กดสิวสแตนเลส ปลายแหลม",
+      "category": "ดูแลผิว",
+      "desc": "ที่กดสิวสแตนเลสปลายแหลม กดสิวอุดตันได้แม่นยำ สะอาดถูกสุขอนามัย ลดรอยแดงหลังกด",
+      "price": "69.00",
+      "image": "resource/Basicare/Basicare_Product_Images/08_%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%9C%E0%B8%B4%E0%B8%A7/BC1099.jpg"
+    },
+    {
+      "sku": "BC1105",
+      "name_en": "Stainless Steel Blackhead Remover (Dual Loop)",
+      "name_th": "ที่กดสิวสแตนเลสห่วง คู่",
+      "category": "ดูแลผิว",
+      "desc": "ที่กดสิวสแตนเลสแบบห่วงคู่ กดสิวได้ 2 ขนาดในชิ้นเดียว เหมาะสำหรับสิวทุกประเภท",
+      "price": "69.00",
+      "image": "resource/Basicare/Basicare_Product_Images/08_%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%9C%E0%B8%B4%E0%B8%A7/BC1105.jpg"
+    },
+    {
+      "sku": "BC1106",
+      "name_en": "Square Flocked Makeup Sponge Puff 2 pcs",
+      "name_th": "พัฟ ฟองน้ำสี่เหลี่ยมขนปุย 2 ชิ้น",
+      "category": "พัฟ",
+      "desc": "พัฟฟองน้ำสี่เหลี่ยมขนปุย แพ็ก 2 ชิ้น เนื้อสัมผัสนุ่มพิเศษ ปัดแป้งได้เบาบางเป็นธรรมชาติ",
+      "price": "159.00",
+      "image": "resource/Basicare/Basicare_Product_Images/05_%E0%B8%9E%E0%B8%B1%E0%B8%9F/BC1106.jpg"
+    },
+    {
+      "sku": "BC1125",
+      "name_en": "Eyeshadow Brush",
+      "name_th": "แปรงอายแชร์โด้",
+      "category": "แปรง",
+      "desc": "แปรงอายแชร์โด้ขนนุ่ม เกลี่ยสีตาได้สม่ำเสมอ เหมาะสำหรับแต่งตาทั้งแบบแนบชิดและแบบกลม",
+      "price": "99.00",
+      "image": "resource/Basicare/Basicare_Product_Images/04_%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%87/BC1125.jpg"
+    },
+    {
+      "sku": "BC1944",
+      "name_en": "Special Gloss Nail Care Set",
+      "name_th": "ชุดแต่งเล็บเงาแบบพิเศษ",
+      "category": "ชุดแต่งเล็บ",
+      "desc": "ชุดแต่งเล็บเงาพิเศษครบเซ็ต ประกอบด้วยเครื่องมือตะไบและขัดเงาเล็บให้สวยงามอย่างมืออาชีพ",
+      "price": "89.00",
+      "image": "resource/Basicare/Basicare_Product_Images/07_%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%9A/BC1944.jpg"
+    },
+    {
+      "sku": "BC1945",
+      "name_en": "4-Step Nail Buffer",
+      "name_th": "ที่ตะไบเล็บเงา 4 ขั้นตอน",
+      "category": "ตะไบเล็บ",
+      "desc": "ตะไบเล็บเงา 4 ขั้นตอนในชิ้นเดียว ขัดและเคลือบเงาเล็บให้สวยงามเป็นธรรมชาติ ไม่ต้องทาเจล",
+      "price": "109.00",
+      "image": "resource/Basicare/Basicare_Product_Images/06_%E0%B8%95%E0%B8%B0%E0%B9%84%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%9A/BC1945.jpg"
+    },
+    {
+      "sku": "BC2196",
+      "name_en": "Body Exfoliating Sponge",
+      "name_th": "เส้นใยฟองน้ำขัดตัว",
+      "category": "พัฟ",
+      "desc": "เส้นใยฟองน้ำขัดตัว นวดและขัดผิวได้ทั่วถึง ผลัดเซลล์ผิวเก่า ผิวกายสะอาดนุ่มเนียนขึ้น",
+      "price": "79.00",
+      "image": "resource/Basicare/Basicare_Product_Images/05_%E0%B8%9E%E0%B8%B1%E0%B8%9F/BC2196.jpg"
+    },
+    {
+      "sku": "BC7094",
+      "name_en": "ROSE Concealer/Contouring Brush",
+      "name_th": "ROSE แปรงทาคอนซีลเลอร์หรือเฉดดิ้ง",
+      "category": "ROSE",
+      "desc": "แปรง ROSE ทาคอนซีเลอร์และเฉดดิ้ง ขนนุ่มละเอียด ปิดรอยได้สม่ำเสมอและดูเป็นธรรมชาติ",
+      "price": "159.00",
+      "image": "resource/Basicare/Basicare_Product_Images/ROSE/BC7094.jpg"
+    },
+    {
+      "sku": "BC7110",
+      "name_en": "ROSE Angled Blush Brush",
+      "name_th": "ROSE แปรงปัดแก้มปลายเฉียง",
+      "category": "ROSE",
+      "desc": "แปรง ROSE ปัดแก้มปลายเฉียง ดีไซน์พิเศษสำหรับเกลี่ยสีแก้มให้มีมิติและเป็นธรรมชาติ",
+      "price": "269.00",
+      "image": "resource/Basicare/Basicare_Product_Images/ROSE/BC7110.jpg"
+    },
+    {
+      "sku": "BC7112",
+      "name_en": "ROSE Eyelash Curler",
+      "name_th": "ROSE ที่ดัดขนตา",
+      "category": "ROSE",
+      "desc": "ที่ดัดขนตา ROSE คุณภาพระดับพรีเมียม ดัดขนตาได้สวยงาม ยางนุ่มถนอมขนตาไม่ขาด",
+      "price": "159.00",
+      "image": "resource/Basicare/Basicare_Product_Images/ROSE/BC7112.jpg"
+    },
+    {
+      "sku": "BC7113",
+      "name_en": "ROSE Stainless Steel Tweezers – Slant Tip",
+      "name_th": "ROSE แหนบสแตนเลสปลายเฉียง",
+      "category": "ROSE",
+      "desc": "แหนบสแตนเลสปลายเฉียง ROSE ดีไซน์โมเดิร์น หยิบขนคิ้วได้แม่นยำ ผิวเคลือบกันสนิม",
+      "price": "129.00",
+      "image": "resource/Basicare/Basicare_Product_Images/ROSE/BC7113.jpg"
+    },
+    {
+      "sku": "BC7117",
+      "name_en": "ROSE Nail Care Set",
+      "name_th": "ROSE ชุดตกแต่งเล็บ",
+      "category": "ROSE",
+      "desc": "ชุดตกแต่งเล็บ ROSE ออกแบบพิเศษสำหรับผู้ที่รักความหรูหรา ครบชุดในกล่องสวยงาม",
+      "price": "259.00",
+      "image": "resource/Basicare/Basicare_Product_Images/ROSE/BC7117.jpg"
+    },
+    {
+      "sku": "BC1017",
+      "name_en": "Manicure & Pedicure Nail Care Set",
+      "name_th": "ชุดตกแต่งเล็บมือเล็บเท้า",
+      "category": "ชุดแต่งเล็บ",
+      "desc": "ชุดเครื่องมือตกแต่งเล็บมือและเล็บเท้าครบชุด เหมาะสำหรับการดูแลตัวเองที่บ้านอย่างมืออาชีพ",
+      "price": "229.00",
+      "image": "resource/Basicare/Basicare_Product_Images/07_%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%9A/BC1017.jpg"
+    }
+  ]
+}
